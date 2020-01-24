@@ -44,5 +44,6 @@ def naming_system
 hash = {PORTION_1
 
 }
+end
 return hash
 end
